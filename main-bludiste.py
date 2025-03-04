@@ -19,7 +19,7 @@ BLUE = (0, 0, 255)
 
 # Časovač
 FONT = pygame.font.Font(None, 36)
-time_limit = 30  # Sekundy
+time_limit = 5  # Sekundy
 clock = pygame.time.Clock()
 
 # Hráč
